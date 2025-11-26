@@ -1,0 +1,18 @@
+body {
+  font-family: system-ui;
+  background: darkblue;
+  color: white;
+  text-align: center;
+}
+p {
+  text-align:left;
+}
+ul{
+  text-align: left;
+  padding-left:20px;
+}
+.centered {
+  display: block;
+  margin-left:auto;
+  margin-right:auto;
+}
